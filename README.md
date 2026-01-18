@@ -33,27 +33,6 @@ A modern, premium frontend website for HBTU Crypto Club - a student community fo
 - Node.js 18.x or later
 - npm or yarn package manager
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/hbtu-crypto-club.git
-   cd hbtu-crypto-club
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the website.
 
 ## 📁 Project Structure
 
