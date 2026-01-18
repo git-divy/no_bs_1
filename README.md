@@ -38,7 +38,7 @@ A modern, premium frontend website for HBTU Crypto Club - a student community fo
 1. **Clone the repository**
    ```bash
    git clone https://github.com/git-divy/no_bs_1
-   cd no_bs
+   cd no_bs_1
    ```
 
 2. **Install dependencies**
