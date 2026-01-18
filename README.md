@@ -33,6 +33,63 @@ A modern, premium frontend website for HBTU Crypto Club - a student community fo
 - Node.js 18.x or later
 - npm or yarn package manager
 
+### Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/git-divy/no_bs_1
+   cd no_bs
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. **Open your browser**
+
+   Navigate to [http://localhost:3000](http://localhost:3000) to view the website.
+
+### Build & Production
+
+- **Build for production**
+  ```bash
+  npm run build
+  # or
+  yarn build
+  ```
+
+- **Start production server**
+  ```bash
+  npm run start
+  # or
+  yarn start
+  ```
+
+- **Run linting**
+  ```bash
+  npm run lint
+  # or
+  yarn lint
+  ```
+
+### Additional Commands
+
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server with hot reload |
+| `npm run build` | Create optimized production build |
+| `npm run start` | Start production server |
+| `npm run lint` | Run ESLint for code quality checks |
 
 ## 📁 Project Structure
 
